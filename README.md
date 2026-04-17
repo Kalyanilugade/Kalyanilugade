@@ -1,63 +1,84 @@
-# Hi 👋 I'm Kalyani Lugade
+# 👋 Hi, I'm Kalyani Lugade
 
-🚀 Full Stack Web Developer (Fresher) | 🎓 B.Tech Computer Science Student  
-💡 Interested in building smart, scalable & user-friendly applications  
-
----
-
-## 👩‍💻 About Me
-I am a Computer Science student passionate about **full stack web development**.  
-I enjoy working on **real-world projects**, learning new technologies, and improving my problem-solving skills through hands-on development.
+💻 Full Stack .NET Developer | 3+ Years Experience
+📍 Pune, India
 
 ---
 
-## 🔭 Currently Working On
-🏨 **Hotel Management Website with AI Integration**  
-A smart hotel management system featuring booking management, admin control, and AI-powered assistance.
+## 🚀 About Me
 
-📚 Enhancing my skills in **backend development, databases, and system design**.
+I am a passionate Full Stack Developer with experience in building scalable web applications using **ASP.NET Core, Angular, and SQL Server**.
 
----
-
-## 🛠️ Technical Skills
-
-**Frontend:**  
-HTML, CSS, JavaScript, React.js  
-
-**Backend:**  
-Node.js, Firebase  
-
-**Databases:**  
-MongoDB, MySQL  
-
-**Programming Languages:**  
-C, Java, Python,   
-
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Firebase
+✔️ Skilled in REST APIs, Microservices, and Cloud (Azure)
+✔️ Strong knowledge of Authentication (JWT, OAuth 2.0)
+✔️ Experience working in Agile environments
 
 ---
 
-## 🚀 Projects
-- **Hotel Management Website (AI Integrated)**  
-  Smart hotel system with booking, management dashboard & AI features  
+## 🛠️ Tech Stack
 
-- **Doctor Appointment Scheduler**  
-  Real-time appointment booking with authentication  
+### 👨‍💻 Backend
 
-- **DSA RAPID**  
-  Virtual DSA learning platform with visualizers and practice modules  
+* .NET, C#, ASP.NET Core, Web API
+* Entity Framework, LINQ
 
-- **Portfolio Website**  
-  Responsive personal portfolio built using HTML, CSS & JavaScript  
+### 🎨 Frontend
+
+* Angular, JavaScript, TypeScript
+* Bootstrap, jQuery
+
+### 🗄️ Databases
+
+* SQL Server, MySQL, PostgreSQL, MongoDB
+
+### 🔐 Security
+
+* JWT Authentication
+* OAuth 2.0
+* Role-Based Access Control (RBAC)
+
+### ☁️ Cloud & Tools
+
+* Azure Services
+* CI/CD Pipelines
+* Git, GitHub
+* Postman, Swagger
 
 ---
 
+## 📌 Projects
 
-## 🤝 Connect With Me
-📍 Pune, Maharashtra, India  
-📧 Email: lugadekalyanil@gmail.com  
-Portfolio:https://portfolio-site--lugadekalyani.replit.app
+### 🔹 Config Infinity (Product Builder)
+
+* Built REST APIs using ASP.NET Web API
+* Implemented dynamic product configuration
+* Developed real-time pricing logic
+
+### 🔹 Fuel Inventory System
+
+* Microservices-based architecture
+* Real-time stock tracking system
+* OAuth 2.0 secured APIs
+
+### 🔹 CRM System
+
+* Customer lifecycle management system
+* Angular dashboards for analytics
+* JWT authentication with RBAC
+
 ---
 
-✨ *Always curious to learn, build, and grow as a developer.*
+## 📈 GitHub Stats
+
+![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [kalyanilugade36@gmail.com](mailto:kalyanilugade36@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/kalyani-lugade-82b015243/
+
+---
+
+⭐ *Always eager to learn and build scalable applications*
