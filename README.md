@@ -68,11 +68,7 @@ I am a passionate Full Stack Developer with experience in building scalable web 
 
 ---
 
-## 📈 GitHub Stats
 
-![Kalyani's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyanilugade\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 📫 Contact Me
 
