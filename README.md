@@ -208,9 +208,9 @@ A retail POS and inventory management system with billing, stock tracking, and s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kalyanilugade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyanilugade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="170" alt="Top Languages" />
 
 </div>
 
@@ -218,7 +218,7 @@ A retail POS and inventory management system with billing, stock tracking, and s
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=00aeff&currStreakLabel=00ff9d" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Kalyanilugade&theme=tokyonight&hide_border=true&background=0f172a&ring=00aeff&currStreakLabel=00ff9d" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -253,7 +253,7 @@ I'm open to:
 
 # 📬 Reach Out
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/Kalyanilugade" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -285,6 +285,6 @@ I'm open to:
 Building Scalable Applications | Writing Clean Code | Learning Every Day
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=0f172a&right_color=00aeff&left_text=Total%20Visitors" alt="Visitor Count" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kalyanilugade.Kalyanilugade&left_color=0f172a&right_color=00aeff&left_text=Total%20Visitors" alt="Visitor Count" />
 
 </div>
