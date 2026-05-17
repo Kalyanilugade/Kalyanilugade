@@ -28,6 +28,14 @@
 
 <br/>
 
+### ⚡ Strategic Vision
+
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 10px; max-width: 650px;" alt="Developer GIF"/>
+</div>
+
+<br/>
+
 **Full Stack .NET Developer** | **ASP.NET Core & Angular Specialist** with **3+ Years** of Enterprise Experience
 
 I build scalable, production-grade web applications using ASP.NET Core, Angular, and SQL Server. Passionate about creating secure, high-performance systems with clean architecture and modern development practices.
@@ -38,8 +46,6 @@ I build scalable, production-grade web applications using ASP.NET Core, Angular,
 * 🔐 **Security First:** JWT authentication, RBAC, and OAuth 2.0 implementation.
 
 > *"Building scalable applications with clean code, modern architecture, and real-world impact."*
-
----
 
 ### 🎯 Featured Project: CRM System
 
