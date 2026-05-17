@@ -23,14 +23,6 @@
 ### ⚡ Strategic Vision
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px; max-width: 600px;" alt="Coding GIF"/>
-</div>
-
-<br/>
-
-### ⚡ Strategic Vision
-
-<div align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 10px; max-width: 650px;" alt="Developer GIF"/>
 </div>
 
