@@ -2,14 +2,14 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Kalyani%20Lugade&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Kalyanilugade">
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=750&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%2B+Angular+Specialist;3%2B+Years+Building+Enterprise+Apps;Microservices+%7C+REST+APIs+%7C+Azure;System+Status:+ONLINE." alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00aeff&style=flat-square&label=PROFILE+HITS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Kalyanilugade&color=00aeff&style=flat-square&label=PROFILE+HITS" alt="Profile Views"/>
 </a>
 
 <a href="mailto:kalyanilugade36@gmail.com">
@@ -200,7 +200,7 @@ A retail POS and inventory management system with billing, stock tracking, and s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyanilugade&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -254,7 +254,7 @@ I'm open to:
 # 📬 Reach Out
 
 <a href="https://github.com/Kalyanilugade" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Kalyanilugade-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 &nbsp;
