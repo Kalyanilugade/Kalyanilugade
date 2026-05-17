@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Kalyani%20Lugade&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%2B+Angular+Specialist;3%2B+Years+Building+Enterprise+Apps;Building+Scalable+Web+Applications;System+Status:+ONLINE." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=750&lines=Full+Stack+.NET+Developer;ASP.NET+Core+%2B+Angular+Specialist;3%2B+Years+Building+Enterprise+Apps;Microservices+%7C+REST+APIs+%7C+Azure;System+Status:+ONLINE." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,11 +16,15 @@
 <img src="https://img.shields.io/badge/Comms-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/kalyani-lugade-82b015243/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Kalyani%20Lugade-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### ⚡ Strategic Vision
+# ⚡ Strategic Vision
 
 <div align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" style="border-radius: 10px; max-width: 650px;" alt="Developer GIF"/>
@@ -30,142 +34,169 @@
 
 **Full Stack .NET Developer** | **ASP.NET Core & Angular Specialist** with **3+ Years** of Enterprise Experience
 
-I build scalable, production-grade web applications using ASP.NET Core, Angular, and SQL Server. Passionate about creating secure, high-performance systems with clean architecture and modern development practices.
+I specialize in developing scalable enterprise applications using ASP.NET Core, Angular, SQL Server, and Azure technologies. Experienced in building secure REST APIs, responsive Angular applications, and microservices-based systems across Healthcare, CRM, and Retail domains.
 
-* 🚀 **Enterprise Builder:** Developing scalable web applications and APIs.
-* 🏗️ **System Design:** Working with Clean Architecture and SOLID principles.
-* ⚡ **Real-Time Systems:** Building SignalR-powered chat and live systems.
-* 🔐 **Security First:** JWT authentication, RBAC, and OAuth 2.0 implementation.
+* 🚀 **Enterprise Application Development:** Building scalable web applications using ASP.NET Core, Web API, Angular, and SQL Server.
+* 🏗️ **Architecture & Backend Engineering:** Working with Clean Architecture, Microservices, Entity Framework Core, and RESTful APIs.
+* ⚡ **Modern Frontend Development:** Developing responsive Angular applications with reusable components and optimized UI performance.
+* 🔐 **Security & Authentication:** Implementing JWT Authentication, RBAC, and secure API authorization mechanisms.
+* ☁️ **Cloud & DevOps:** Hands-on experience with Azure Services, Azure DevOps, CI/CD pipelines, GitHub, Swagger, and deployment workflows.
+* 📊 **Agile & SDLC:** Actively involved in requirement analysis, development, testing, code reviews, deployment, and Agile/Scrum collaboration.
 
-> *"Building scalable applications with clean code, modern architecture, and real-world impact."*
-
-### 🎯 Featured Project: CRM System
-
-<div align="center">
-<h3>📋 Enterprise CRM Platform</h3>
-
-<img src="https://img.shields.io/badge/Status-Production%20Ready-00ff9d?style=flat-square&logo=check" />
-
-<img src="https://img.shields.io/badge/Stack-.NET%20%2B%20Angular-00aeff?style=flat-square" />
-
-</div>
-
-**CRM System** is a scalable enterprise application designed for managing customer lifecycle, analytics, and business operations.
-
-✅ Customer Management  
-✅ Role-Based Access Control  
-✅ JWT Authentication  
-✅ Angular Dashboards & Reports  
-✅ REST APIs & Secure Architecture  
-
-**Tech Stack:** ASP.NET Core | Angular | SQL Server | EF Core | JWT
+> *"Focused on building scalable, secure, and maintainable enterprise applications with clean architecture and modern development practices."*
 
 ---
 
-### 🛠️ Technical Arsenal
+# 🎯 Featured Enterprise Projects
 
 <div align="center">
 
-**Core Languages**
-<br>
+<h3>🏥 SmartCare Healthcare Platform</h3>
+
+<img src="https://img.shields.io/badge/Domain-Healthcare-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
+
+</div>
+
+A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
+
+✅ Patient & Doctor Management  
+✅ Appointment Scheduling  
+✅ Billing Management  
+✅ JWT Authentication & RBAC  
+✅ Responsive Angular UI  
+
+**Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | Azure Services
+
+---
+
+<div align="center">
+
+<h3>📊 SalesFlow CRM Platform</h3>
+
+<img src="https://img.shields.io/badge/Domain-CRM-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Microservices%20%2B%20Angular-00aeff?style=flat-square" />
+
+</div>
+
+A scalable CRM platform for managing leads, customers, sales pipelines, and analytics dashboards.
+
+✅ Customer Lifecycle Management  
+✅ Real-Time Dashboards  
+✅ JWT Authentication & RBAC  
+✅ Azure Functions Integration  
+✅ Reusable Angular Components  
+
+**Tech Stack:** ASP.NET Core | Angular | MySQL | Azure Functions | Microservices
+
+---
+
+<div align="center">
+
+<h3>🛒 RetailPOS Management System</h3>
+
+<img src="https://img.shields.io/badge/Domain-Retail-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
+
+</div>
+
+A retail POS and inventory management system with billing, stock tracking, and sales reporting.
+
+✅ Billing & Product Management  
+✅ Inventory Tracking  
+✅ Real-Time Stock Updates  
+✅ Sales Dashboard  
+✅ Secure Authentication System  
+
+**Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | JWT
+
+---
+
+# 🛠️ Technical Arsenal
+
+<div align="center">
+
+## 👨‍💻 Core Languages
+
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,typescript,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,typescript,javascript,html,css,sql" />
 </a>
 
-**Backend Mastery**
-<br>
+---
+
+## ⚙️ Backend Technologies
+
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio" />
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio" />
 </a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 
-**Frontend Expertise**
-<br>
+---
+
+## 🎨 Frontend Technologies
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap" />
 </a>
 
-**Databases & Cloud**
-<br>
+---
+
+## 🗄️ Databases
 
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 
-**DevOps & Tools**
-<br>
+---
+
+## ☁️ Cloud & DevOps
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman" />
 </a>
 
-**Architecture & Security**
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/Clean%20Architecture-00aeff?style=flat-square" />
-<img src="https://img.shields.io/badge/SOLID-00ff9d?style=flat-square" />
-<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-00aeff?style=flat-square" />
+
+---
+
+## 🔐 Security & Architecture
+
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
 <img src="https://img.shields.io/badge/RBAC-4A154B?style=flat-square" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-00aeff?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-00ff9d?style=flat-square" />
 
 </div>
 
 ---
 
-### 💼 Professional Experience
+# 💼 Professional Experience
 
-#### 🏢 Full Stack Developer
+## 🏢 Software Developer  
+### Western Ocean Software Solution Pvt. Ltd | Pune, India  
+📅 Jan 2023 – Present
 
-> **Enterprise Application Development**
->
-> - Building scalable ASP.NET Core and Angular applications
-> - Developing secure REST APIs with JWT Authentication
-> - Working on SQL Server database design and optimization
-> - Participating in Agile/Scrum development lifecycle
-
-#### 💡 Full Stack Engineering
-
-> **3+ Years in .NET & Angular**
->
-> - Delivered end-to-end enterprise solutions
-> - Worked on frontend, backend, database, and deployment
-> - Experience with Azure DevOps and CI/CD pipelines
-> - API integration using Postman and Swagger
-
-#### ⚡ Real-Time Systems
-
-> **SignalR & Live Communication**
->
-> - Built real-time chat systems
-> - Implemented typing indicators and notifications
-> - Worked on live dashboard updates
-
-#### 🛡️ Clean Architecture
-
-> **Code Quality & Best Practices**
->
-> - Applied SOLID principles and layered architecture
-> - Implemented reusable services and repositories
-> - Contributed to code reviews and optimization
+- Working as a Full Stack Developer across enterprise applications built on ASP.NET Core, Web API, and Angular
+- Involved in complete SDLC including requirement analysis, development, testing, deployment, and maintenance
+- Collaborated with cross-functional teams in Agile/Scrum environments
+- Worked with Azure DevOps for CI/CD pipelines and deployment workflows
+- Managed API documentation and testing using Swagger and Postman
+- Contributed to code reviews, refactoring, and implementation of best practices
+- Delivered applications across Healthcare, CRM, and Retail domains
 
 ---
 
-### 📂 Project Portfolio
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| 💬 CRM System | Customer management platform with analytics dashboard | ASP.NET Core, Angular, JWT | ✅ Live |
-| ⛽ Fuel Inventory System | Inventory and stock tracking system | ASP.NET Core, SQL Server | ✅ Live |
-| ⚙️ Config Infinity | Product builder and pricing engine | ASP.NET Web API, Angular | ✅ Live |
-
----
-
-### ⚡ Development Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -173,15 +204,13 @@ I build scalable, production-grade web applications using ASP.NET Core, Angular,
 
 </div>
 
----
-
-### 📊 Performance Metrics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="170" alt="Top Languages" />
 
 </div>
 
@@ -195,32 +224,34 @@ I build scalable, production-grade web applications using ASP.NET Core, Angular,
 
 ---
 
-### 🎓 Core Competencies
+# 🎓 Core Competencies
 
 - ✅ ASP.NET Core & Angular Development
-- ✅ REST API & Microservices
-- ✅ SignalR Real-Time Applications
+- ✅ REST API & Microservices Architecture
 - ✅ SQL Server & Database Design
-- ✅ Azure Cloud & CI/CD
 - ✅ JWT Authentication & RBAC
+- ✅ Azure Cloud & CI/CD Pipelines
+- ✅ Responsive UI Development
+- ✅ Agile / Scrum Methodology
 - ✅ Clean Architecture & SOLID Principles
-- ✅ Agile / Scrum Development
 
 ---
 
-### 🤝 Let's Collaborate!
+# 🤝 Let's Collaborate!
 
 I'm open to:
 
 - Enterprise .NET Projects
 - Angular + ASP.NET Core Applications
-- Real-Time Applications with SignalR
 - SaaS Product Development
-- API & Backend Development
+- REST API & Backend Development
+- Full Stack Development Opportunities
+
+---
 
 <div align="center">
 
-### 📬 Reach Out
+# 📬 Reach Out
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -232,15 +263,23 @@ I'm open to:
 <img src="https://img.shields.io/badge/Email-kalyanilugade36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+&nbsp;
+
+<a href="https://www.linkedin.com/in/kalyani-lugade-82b015243/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Kalyani%20Lugade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
 
-<p align="center"><strong>Crafted by Kalyani Lugade © 2026</strong></p>
+<p align="center">
+<strong>Crafted by Kalyani Lugade © 2026</strong>
+</p>
 
 <p align="center">
 Building Scalable Applications | Writing Clean Code | Learning Every Day
