@@ -60,11 +60,15 @@ I specialize in developing scalable enterprise applications using ASP.NET Core, 
 
 A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
 
-Patient & Doctor Management  
-Appointment Scheduling  
-Billing Management  
-JWT Authentication & RBAC  
-Responsive Angular UI  
+👨‍⚕️ Patient & Doctor Management System
+📅 Appointment Scheduling & Tracking
+💳 Billing & Payment Management
+🔐 JWT Authentication & Role-Based Authorization
+📊 Dashboard for Admin & Staff Monitoring
+📱 Responsive Angular UI for Cross-Device Support
+⚡ RESTful APIs with ASP.NET Core Web API
+🗄️ Entity Framework Core Integration
+☁️ Azure Deployment & CI/CD Pipelines
 
 **Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | Azure Services
 
@@ -81,11 +85,15 @@ Responsive Angular UI
 
 A scalable CRM platform for managing leads, customers, sales pipelines, and analytics dashboards.
 
-Customer Lifecycle Management  
-Real-Time Dashboards  
-JWT Authentication & RBAC  
-Azure Functions Integration  
-Reusable Angular Components  
+👥 Customer & Lead Lifecycle Management
+📈 Real-Time Sales Dashboard & Analytics
+🔐 Secure JWT Authentication & RBAC
+🔄 Microservices-Based Architecture
+⚡ REST API Integration with Angular Frontend
+☁️ Azure Functions & Background Services
+📊 Reporting & Performance Insights
+🧩 Reusable Angular Components
+🚀 CI/CD Integration with Azure DevOps
 
 **Tech Stack:** ASP.NET Core | Angular | MySQL | Azure Functions | Microservices
 
@@ -102,11 +110,15 @@ Reusable Angular Components
 
 A retail POS and inventory management system with billing, stock tracking, and sales reporting.
 
-Billing & Product Management  
-Inventory Tracking  
-Real-Time Stock Updates  
-Sales Dashboard  
-Secure Authentication System  
+🧾 Billing & Invoice Management
+📦 Product & Inventory Tracking
+📊 Sales Reporting Dashboard
+🔔 Real-Time Stock Availability Updates
+👥 User Authentication & Authorization
+📱 Responsive UI with Angular
+⚡ REST APIs with ASP.NET Core
+🗄️ SQL Server Database Management
+🔐 Secure JWT-Based Login System 
 
 **Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | JWT
 
