@@ -60,11 +60,11 @@ I specialize in developing scalable enterprise applications using ASP.NET Core, 
 
 A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
 
-✅ Patient & Doctor Management  
-✅ Appointment Scheduling  
-✅ Billing Management  
-✅ JWT Authentication & RBAC  
-✅ Responsive Angular UI  
+Patient & Doctor Management  
+Appointment Scheduling  
+Billing Management  
+JWT Authentication & RBAC  
+Responsive Angular UI  
 
 **Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | Azure Services
 
@@ -81,11 +81,11 @@ A healthcare management platform designed to manage patient records, appointment
 
 A scalable CRM platform for managing leads, customers, sales pipelines, and analytics dashboards.
 
-✅ Customer Lifecycle Management  
-✅ Real-Time Dashboards  
-✅ JWT Authentication & RBAC  
-✅ Azure Functions Integration  
-✅ Reusable Angular Components  
+Customer Lifecycle Management  
+Real-Time Dashboards  
+JWT Authentication & RBAC  
+Azure Functions Integration  
+Reusable Angular Components  
 
 **Tech Stack:** ASP.NET Core | Angular | MySQL | Azure Functions | Microservices
 
@@ -102,11 +102,11 @@ A scalable CRM platform for managing leads, customers, sales pipelines, and anal
 
 A retail POS and inventory management system with billing, stock tracking, and sales reporting.
 
-✅ Billing & Product Management  
-✅ Inventory Tracking  
-✅ Real-Time Stock Updates  
-✅ Sales Dashboard  
-✅ Secure Authentication System  
+Billing & Product Management  
+Inventory Tracking  
+Real-Time Stock Updates  
+Sales Dashboard  
+Secure Authentication System  
 
 **Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | JWT
 
@@ -226,14 +226,14 @@ A retail POS and inventory management system with billing, stock tracking, and s
 
 # 🎓 Core Competencies
 
-- ✅ ASP.NET Core & Angular Development
-- ✅ REST API & Microservices Architecture
-- ✅ SQL Server & Database Design
-- ✅ JWT Authentication & RBAC
-- ✅ Azure Cloud & CI/CD Pipelines
-- ✅ Responsive UI Development
-- ✅ Agile / Scrum Methodology
-- ✅ Clean Architecture & SOLID Principles
+- ASP.NET Core & Angular Development
+- REST API & Microservices Architecture
+- SQL Server & Database Design
+- JWT Authentication & RBAC
+- Azure Cloud & CI/CD Pipelines
+- Responsive UI Development
+- Agile / Scrum Methodology
+- Clean Architecture & SOLID Principles
 
 ---
 
