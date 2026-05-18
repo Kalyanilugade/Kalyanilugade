@@ -243,7 +243,17 @@ A retail POS and inventory management system with billing, stock tracking, and s
 </div>
 
 ---
+# 🏆 GitHub Achievements
 
+<div align="center">
+
+### 🦈 Pull Shark Achievement
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Achievement"/>
+
+> Awarded for successfully merging pull requests on GitHub and contributing through collaborative development workflows.
+
+</div>
 # 🎓 Core Competencies
 
 - ASP.NET Core & Angular Development
