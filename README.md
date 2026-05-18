@@ -50,6 +50,9 @@ I specialize in developing scalable enterprise applications using ASP.NET Core, 
 # 🎯 Featured Enterprise Projects
 
 <h3>🏥 SmartCare Healthcare Platform</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-Healthcare-00ff9d?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
+</div>
 A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
 
 ### 🚀 Key Features
