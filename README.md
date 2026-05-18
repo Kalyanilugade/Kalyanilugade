@@ -57,20 +57,34 @@ I specialize in developing scalable enterprise applications using ASP.NET Core, 
 <img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
 
 </div>
+# 🎯 Featured Enterprise Projects
 
+<div align="center">
+
+<h3>🏥 SmartCare Healthcare Platform</h3>
+
+<img src="https://img.shields.io/badge/Domain-Healthcare-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
+
+</div>
+<h3>🏥 SmartCare Healthcare Platform</h3>
 A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
 
-  👨‍⚕️ Patient & Doctor Management System
-  📅 Appointment Scheduling & Tracking
-  💳 Billing & Payment Management
-  🔐 JWT Authentication & Role-Based Authorization
-  📊 Dashboard for Admin & Staff Monitoring
-  📱 Responsive Angular UI for Cross-Device Support
-  ⚡ RESTful APIs with ASP.NET Core Web API
-  🗄️ Entity Framework Core Integration
-  ☁️ Azure Deployment & CI/CD Pipelines
+### 🚀 Key Features
 
-**Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | Azure Services
+* 👨‍⚕️ Patient & Doctor Management System
+* 📅 Appointment Scheduling & Tracking
+* 💳 Billing & Payment Management
+* 🔐 JWT Authentication & Role-Based Authorization
+* 📊 Dashboard for Admin & Staff Monitoring
+* 📱 Responsive Angular UI for Cross-Device Support
+* ⚡ RESTful APIs with ASP.NET Core Web API
+* 🗄️ Entity Framework Core Integration
+* ☁️ Azure Deployment & CI/CD Pipelines
+
+### 🛠️ Tech Stack
+
+`ASP.NET Core` • `Angular` • `SQL Server` • `Entity Framework` • `Azure Services`
 
 ---
 
@@ -82,20 +96,24 @@ A healthcare management platform designed to manage patient records, appointment
 <img src="https://img.shields.io/badge/Stack-Microservices%20%2B%20Angular-00aeff?style=flat-square" />
 
 </div>
-
+<h3>📊 SalesFlow CRM Platform </h3>
 A scalable CRM platform for managing leads, customers, sales pipelines, and analytics dashboards.
 
-  👥 Customer & Lead Lifecycle Management
-  📈 Real-Time Sales Dashboard & Analytics
-  🔐 Secure JWT Authentication & RBAC
-  🔄 Microservices-Based Architecture
-  ⚡ REST API Integration with Angular Frontend
-  ☁️ Azure Functions & Background Services
-  📊 Reporting & Performance Insights
-  🧩 Reusable Angular Components
-  🚀 CI/CD Integration with Azure DevOps
+### 🚀 Key Features
 
-**Tech Stack:** ASP.NET Core | Angular | MySQL | Azure Functions | Microservices
+* 👥 Customer & Lead Lifecycle Management
+* 📈 Real-Time Sales Dashboard & Analytics
+* 🔐 Secure JWT Authentication & RBAC
+* 🔄 Microservices-Based Architecture
+* ⚡ REST API Integration with Angular Frontend
+* ☁️ Azure Functions & Background Services
+* 📊 Reporting & Performance Insights
+* 🧩 Reusable Angular Components
+* 🚀 CI/CD Integration with Azure DevOps
+
+### 🛠️ Tech Stack
+
+`ASP.NET Core` • `Angular` • `MySQL` • `Azure Functions` • `Microservices`
 
 ---
 
@@ -110,17 +128,21 @@ A scalable CRM platform for managing leads, customers, sales pipelines, and anal
 
 A retail POS and inventory management system with billing, stock tracking, and sales reporting.
 
-  🧾 Billing & Invoice Management
-  📦 Product & Inventory Tracking
-  📊 Sales Reporting Dashboard
-  🔔 Real-Time Stock Availability Updates
-  👥 User Authentication & Authorization
-  📱 Responsive UI with Angular
-  ⚡ REST APIs with ASP.NET Core
-  🗄️ SQL Server Database Management
-  🔐 Secure JWT-Based Login System 
+### 🚀 Key Features
 
-**Tech Stack:** ASP.NET Core | Angular | SQL Server | Entity Framework | JWT
+* 🧾 Billing & Invoice Management
+* 📦 Product & Inventory Tracking
+* 📊 Sales Reporting Dashboard
+* 🔔 Real-Time Stock Availability Updates
+* 👥 User Authentication & Authorization
+* 📱 Responsive UI with Angular
+* ⚡ REST APIs with ASP.NET Core
+* 🗄️ SQL Server Database Management
+* 🔐 Secure JWT-Based Login System
+
+### 🛠️ Tech Stack
+
+`ASP.NET Core` • `Angular` • `SQL Server` • `Entity Framework` • `JWT`
 
 ---
 
