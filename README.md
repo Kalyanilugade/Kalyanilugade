@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Kalyanilugade">
 <img src="https://komarev.com/ghpvc/?username=Kalyanilugade&color=00aeff&style=flat-square&label=PROFILE+HITS" alt="Profile Views"/>
 </a>
 
@@ -34,7 +34,7 @@
 
 **Full Stack .NET Developer** | **ASP.NET Core & Angular Specialist** with **3+ Years** of Enterprise Experience
 
-I specialize in developing scalable enterprise applications using ASP.NET Core, Angular, SQL Server, and Azure technologies. Experienced in building secure REST APIs, responsive Angular applications, and microservices-based systems across Healthcare, CRM, and Retail domains.
+I specialize in developing scalable enterprise applications using ASP.NET Core, Angular, SQL Server, and Azure technologies. Experienced in building secure REST APIs, responsive Angular applications, and microservices-based systems across Banking, Healthcare, and E-Commerce domains.
 
 * 🚀 **Enterprise Application Development:** Building scalable web applications using ASP.NET Core, Web API, Angular, and SQL Server.
 * 🏗️ **Architecture & Backend Engineering:** Working with Clean Architecture, Microservices, Entity Framework Core, and RESTful APIs.
@@ -48,91 +48,88 @@ I specialize in developing scalable enterprise applications using ASP.NET Core, 
 ---
 
 # 🎯 Featured Enterprise Projects
-<div align="center">
-<h3>🏥 SmartCare Healthcare Platform</h3>
 
-<img src="https://img.shields.io/badge/Domain-Healthcare-00ff9d?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
+---
+
+<div align="center">
+<h3>💰 FinFlow — Personal Finance Management Platform</h3>
+
+<img src="https://img.shields.io/badge/Domain-Banking-00ff9d?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
 </div>
-A healthcare management platform designed to manage patient records, appointments, billing, and doctor coordination.
+
+A smart personal finance management platform designed to manage income, expenses, budgeting, savings goals, and financial analytics with secure transaction management and real-time dashboard insights.
+
+### 🚀 Key Features
+
+* 💸 Income & Expense Tracking with Category Breakdown
+* 🎯 Savings Goals Management & Progress Monitoring
+* 📊 Real-Time Financial Dashboard with Charts & Budget Summaries
+* 🔐 JWT Authentication & Role-Based Access Control (RBAC)
+* ⚡ RESTful APIs built with ASP.NET Core Web API
+* 🗄️ SQL Server with Stored Procedures, LINQ & Indexing Optimization
+* 📁 Clean Architecture & SOLID Principles
+* ☁️ Azure DevOps CI/CD Pipelines & Git Source Control
+* 📝 Swagger API Documentation
+
+### 🛠️ Tech Stack
+
+`ASP.NET Core Web API` • `Angular` • `C#` • `SQL Server` • `Entity Framework Core` • `JWT` • `RBAC` • `Clean Architecture` • `Azure DevOps` • `TypeScript` • `Swagger`
+
+---
+
+<div align="center">
+<h3>🏥 MediCare Pro — Healthcare Management System</h3>
+
+<img src="https://img.shields.io/badge/Domain-Healthcare-00ff9d?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-ASP.NET%20MVC%20%2B%20Microservices-00aeff?style=flat-square" />
+</div>
+
+A comprehensive healthcare management system designed to manage patient records, appointments, doctor coordination, billing, and healthcare operations while ensuring secure data handling and operational efficiency.
 
 ### 🚀 Key Features
 
 * 👨‍⚕️ Patient & Doctor Management System
 * 📅 Appointment Scheduling & Tracking
 * 💳 Billing & Payment Management
-* 🔐 JWT Authentication & Role-Based Authorization
-* 📊 Dashboard for Admin & Staff Monitoring
+* 🏥 Electronic Medical Records Module
+* 🔐 OAuth 2.0 Authentication & Role-Based Authorization
+* 📊 Admin, Doctor & Patient Dashboards
 * 📱 Responsive Angular UI for Cross-Device Support
-* ⚡ RESTful APIs with ASP.NET Core Web API
-* 🗄️ Entity Framework Core Integration
-* ☁️ Azure Deployment & CI/CD Pipelines
+* 🔄 Microservices-Based Architecture on Azure
+* ⚡ RESTful APIs for Secure Inter-Module Data Exchange
 
 ### 🛠️ Tech Stack
 
-`ASP.NET Core` • `Angular` • `SQL Server` • `Entity Framework` • `Azure Services`
+`ASP.NET MVC` • `C#` • `Angular` • `SQL Server` • `Entity Framework Core` • `LINQ` • `OAuth 2.0` • `RBAC` • `Azure Services` • `Microservices` • `JavaScript`
 
 ---
 
 <div align="center">
+<h3>🛒 RetailFlow — Enterprise E-Commerce Management Platform</h3>
 
-<h3>📊 SalesFlow CRM Platform</h3>
-
-<img src="https://img.shields.io/badge/Domain-CRM-00ff9d?style=flat-square" />
-<img src="https://img.shields.io/badge/Stack-Microservices%20%2B%20Angular-00aeff?style=flat-square" />
-
+<img src="https://img.shields.io/badge/Domain-E--Commerce-00ff9d?style=flat-square" /> <img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
 </div>
 
-A scalable CRM platform for managing leads, customers, sales pipelines, and analytics dashboards.
+An enterprise-level retail and e-commerce management system designed to streamline product management, inventory tracking, order processing, customer management, and sales analytics with real-time reporting.
 
 ### 🚀 Key Features
 
-* 👥 Customer & Lead Lifecycle Management
-* 📈 Real-Time Sales Dashboard & Analytics
-* 🔐 Secure JWT Authentication & RBAC
-* 🔄 Microservices-Based Architecture
-* ⚡ REST API Integration with Angular Frontend
-* ☁️ Azure Functions & Background Services
-* 📊 Reporting & Performance Insights
-* 🧩 Reusable Angular Components
-* 🚀 CI/CD Integration with Azure DevOps
-
-### 🛠️ Tech Stack
-
-`ASP.NET Core` • `Angular` • `MySQL` • `Azure Functions` • `Microservices`
-
----
-
-<div align="center">
-
-<h3>🛒 RetailPOS Management System</h3>
-
-<img src="https://img.shields.io/badge/Domain-Retail-00ff9d?style=flat-square" />
-<img src="https://img.shields.io/badge/Stack-ASP.NET%20Core%20%2B%20Angular-00aeff?style=flat-square" />
-
-</div>
-
-A retail POS and inventory management system with billing, stock tracking, and sales reporting.
-
-### 🚀 Key Features
-
-* 🧾 Billing & Invoice Management
-* 📦 Product & Inventory Tracking
-* 📊 Sales Reporting Dashboard
+* 📦 Product Catalog & Inventory Management (10,000+ SKUs)
+* 🛍️ Order Processing & Real-Time Status Tracking
+* 👥 Customer, Vendor & Admin Portals
+* 📊 Sales Analytics & Reporting Dashboard
+* 🔐 JWT Authentication & RBAC for 3 User Roles
+* ⚡ RESTful APIs with Entity Framework Core & LINQ
+* ☁️ Azure DevOps CI/CD with Git Branching Strategy
 * 🔔 Real-Time Stock Availability Updates
-* 👥 User Authentication & Authorization
-* 📱 Responsive UI with Angular
-* ⚡ REST APIs with ASP.NET Core
-* 🗄️ SQL Server Database Management
-* 🔐 Secure JWT-Based Login System
+* 📝 API Testing & Documentation via Postman & Swagger
 
 ### 🛠️ Tech Stack
 
-`ASP.NET Core` • `Angular` • `SQL Server` • `Entity Framework` • `JWT`
+`ASP.NET Core Web API` • `Angular` • `C#` • `SQL Server` • `MVC Core` • `RESTful APIs` • `Clean Architecture` • `JWT` • `RBAC` • `Azure DevOps` • `Git` • `TypeScript`
 
 ---
 
 # 💻 Technical Expertise
-
 
 <div align="center">
 
@@ -202,17 +199,16 @@ A retail POS and inventory management system with billing, stock tracking, and s
 
 # 💼 Professional Experience
 
-## 🏢 Software Developer  
+## 🏢 Full Stack .NET Developer  
 ### Western Ocean Software Solution Pvt. Ltd | Pune, India  
 📅 Jan 2023 – Present
 
-- Working as a Full Stack Developer across enterprise applications built on ASP.NET Core, Web API, and Angular
-- Involved in complete SDLC including requirement analysis, development, testing, deployment, and maintenance
-- Collaborated with cross-functional teams in Agile/Scrum environments
-- Worked with Azure DevOps for CI/CD pipelines and deployment workflows
-- Managed API documentation and testing using Swagger and Postman
-- Contributed to code reviews, refactoring, and implementation of best practices
-- Delivered applications across Healthcare, CRM, and Retail domains
+- Developed and maintained enterprise-grade web applications across Banking, Healthcare, and E-Commerce domains using ASP.NET Core and Angular
+- Built secure RESTful APIs integrated with JWT Authentication and RBAC, supporting 500+ concurrent users across multiple role tiers
+- Optimized SQL Server databases using stored procedures, indexing, and LINQ — achieving up to 35% reduction in transaction response time
+- Designed real-time Angular dashboards and responsive portals improving user task completion efficiency by 25%
+- Configured Azure DevOps CI/CD pipelines, reducing manual deployment effort by 60% and enabling zero-downtime releases
+- Participated in full Agile/Scrum lifecycle including sprint planning, code reviews, backlog grooming, and retrospectives
 
 ---
 
@@ -243,17 +239,32 @@ A retail POS and inventory management system with billing, stock tracking, and s
 </div>
 
 ---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-### 🦈 Pull Shark Achievement
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Achievement"/>
-
-> Awarded for successfully merging pull requests on GitHub and contributing through collaborative development workflows.
+<table>
+  <tr>
+    <td align="center">
+      <h3>🦈 Pull Shark</h3>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Achievement"/>
+      <br/>
+      <sub>Awarded for successfully merging pull requests and contributing through collaborative development workflows.</sub>
+    </td>
+    <td align="center">
+      <h3>⚡ Quickdraw</h3>
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" alt="Quickdraw Achievement"/>
+      <br/>
+      <sub>Awarded for closing an issue or pull request within 5 minutes of opening — lightning-fast response time!</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
 # 🎓 Core Competencies
 
 - ASP.NET Core & Angular Development
